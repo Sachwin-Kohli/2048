@@ -1,3 +1,8 @@
+//This file is a written copy of the code, do not use it in your project. Instead, copy the data from 2048.py for your projects. I wish you luck! 
+//-Sachwin 
+
+
+
 # 2048
 import tkinter as tk
 import random
